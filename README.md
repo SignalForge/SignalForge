@@ -26,7 +26,7 @@ To democratize algorithmic trading by giving everyone the tools to build, test, 
 ## 🌐 Explore More
 
 - Website: [https://signalforge.io](https://signalforge.io)  
-- Discord: [Join the Community](https://discord.gg/UwuhqCGkjE) *(custom link here)*  
+- Discord: [Join the Community](https://discord.gg/UwuhqCGkjE) 
 - Twitter/X: [@SignalForge](https://x.com/SignalForge_)  
 - Docs: Coming soon
 
